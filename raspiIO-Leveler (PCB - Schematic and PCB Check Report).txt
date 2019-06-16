@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Monday, June 17, 2019
+Project Path:       C:\stv_git\raspiIO-Leveler\raspiIO-Leveler.prj
+Design Path:        C:\stv_git\raspiIO-Leveler\raspiIO-Leveler.pcb
+Design Title:       
+Created:            2019/06/16 23:48:26
+Last Saved:         2019/06/17 1:13:36
+Editing Time:       91 min
+Units:              cm (precision 2)
+
+
+Checking integrity of Schematic and Pcb designs in project "raspiIO-Leveler"
+============================================================================
+
+
+End Of Report.
